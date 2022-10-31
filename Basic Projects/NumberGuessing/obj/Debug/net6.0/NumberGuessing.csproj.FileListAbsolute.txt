@@ -1,0 +1,15 @@
+/Users/gilesdash/Repos/MiniProjects/Basic Projects/NumberGuessing/obj/Debug/net6.0/NumberGuessing.csproj.AssemblyReference.cache
+/Users/gilesdash/Repos/MiniProjects/Basic Projects/NumberGuessing/obj/Debug/net6.0/NumberGuessing.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gilesdash/Repos/MiniProjects/Basic Projects/NumberGuessing/obj/Debug/net6.0/NumberGuessing.AssemblyInfoInputs.cache
+/Users/gilesdash/Repos/MiniProjects/Basic Projects/NumberGuessing/obj/Debug/net6.0/NumberGuessing.AssemblyInfo.cs
+/Users/gilesdash/Repos/MiniProjects/Basic Projects/NumberGuessing/obj/Debug/net6.0/NumberGuessing.csproj.CoreCompileInputs.cache
+/Users/gilesdash/Repos/MiniProjects/Basic Projects/NumberGuessing/bin/Debug/net6.0/NumberGuessing
+/Users/gilesdash/Repos/MiniProjects/Basic Projects/NumberGuessing/bin/Debug/net6.0/NumberGuessing.deps.json
+/Users/gilesdash/Repos/MiniProjects/Basic Projects/NumberGuessing/bin/Debug/net6.0/NumberGuessing.runtimeconfig.json
+/Users/gilesdash/Repos/MiniProjects/Basic Projects/NumberGuessing/bin/Debug/net6.0/NumberGuessing.dll
+/Users/gilesdash/Repos/MiniProjects/Basic Projects/NumberGuessing/bin/Debug/net6.0/ref/NumberGuessing.dll
+/Users/gilesdash/Repos/MiniProjects/Basic Projects/NumberGuessing/bin/Debug/net6.0/NumberGuessing.pdb
+/Users/gilesdash/Repos/MiniProjects/Basic Projects/NumberGuessing/obj/Debug/net6.0/NumberGuessing.dll
+/Users/gilesdash/Repos/MiniProjects/Basic Projects/NumberGuessing/obj/Debug/net6.0/ref/NumberGuessing.dll
+/Users/gilesdash/Repos/MiniProjects/Basic Projects/NumberGuessing/obj/Debug/net6.0/NumberGuessing.pdb
+/Users/gilesdash/Repos/MiniProjects/Basic Projects/NumberGuessing/obj/Debug/net6.0/NumberGuessing.genruntimeconfig.cache
