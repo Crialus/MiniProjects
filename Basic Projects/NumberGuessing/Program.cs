@@ -17,8 +17,8 @@ public class GuessingGame
             Console.WriteLine("What is the highest numnber to play with: ");
             maximum = Console.ReadLine() ?? " ";
             Console.WriteLine("Would you like to play a game where you guess a number that the computer thinks of (me) or a game where the computer guesses a number that you think of (pc): ");
-            choice = Console.ReadLine().ToLower() ?? " ";
-            if (choice == "me" || choice == "pc"){}
+            choice = Console.ReadLine() ?? " ";
+            if (choice.ToLower() == "me" || choice.ToLower() == "pc"){}
             else 
             {
                 Console.WriteLine("Please enter a valid response");
@@ -87,7 +87,8 @@ public class GuessingGame
                 guess = min;
             }
             Console.WriteLine("I guess {0}, is this too high (h), too low (l), or correct (c)", guess);
-            feedback = Console.ReadLine().ToLower() ?? " ";
+            feedback = Console.ReadLine() ?? " ";
+            feedback.ToLower();
             if (feedback == "c")
             {
                 Console.WriteLine("Yay I guessed that your number was {0}, it took me {1} tries", guess, guesses);
